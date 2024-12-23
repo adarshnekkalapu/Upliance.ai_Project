@@ -1,6 +1,3 @@
-# Upliance.ai_Project
-Based on the Jupyter notebook content you provided, here's a README.md file template that explains your project, its objective, and the analysis steps:
-________________________________________
 Data Analyst Intern Assignment
 This project involves analyzing user behavior, cooking preferences, and order trends from a dataset consisting of three sheets: UserDetails, CookingSessions, and OrderDetails. The objective of this analysis is to uncover patterns in user demographics, meal preferences, and the relationship between cooking sessions and orders. The insights from this analysis can help optimize business strategies, marketing campaigns, and improve user engagement.
 Table of Contents
