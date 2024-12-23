@@ -14,18 +14,22 @@ o	Spaghetti and Grilled Chicken are the most popular dishes.
 o	Dinner orders tend to have higher spending compared to lunch or breakfast orders.
 o	Users in cities like New York and Los Angeles order more frequently.
 o	User satisfaction is generally high, but there is still room for improvement.
-Key Visuals
+
+4.Key Visuals
 •	Popular Dishes: A bar chart showing which dishes are ordered most frequently.
 •	Age Distribution: A chart showing the ages of the users.
 •	Order Spending: A boxplot showing how much users spend on each meal type.
 •	User Ratings: A scatter plot to show how session length affects user ratings.
-Business Suggestions
+
+5.Business Suggestions
 •	Target Younger Users: Focus on marketing to young adults, especially those in major cities like New York and Los Angeles.
 •	Dinner Deals: Offer promotions for dinner since it’s the most popular and expensive meal.
 •	Improve User Experience: Provide engaging content for longer cooking sessions to keep users satisfied.
 •	Reduce Cancellations: Investigate ways to reduce canceled orders and improve the ordering process.
-Conclusion
+
+6.Conclusion
 This analysis shows that younger users are more likely to order dinner, and certain dishes are very popular. By focusing on dinner promotions and improving the user experience, businesses can increase customer satisfaction and boost sales.
+
 Tools Used
 •	Python
 •	Pandas (for data handling)
