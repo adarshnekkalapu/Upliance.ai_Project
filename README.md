@@ -38,7 +38,7 @@ Key Visuals
 
 •	User Ratings: A scatter plot to show how session length affects user ratings.
 
-5.Business Suggestions
+Business Suggestions
 
 •	Target Younger Users: Focus on marketing to young adults, especially those in major cities like New York and Los Angeles.
 
@@ -48,7 +48,7 @@ Key Visuals
 
 •	Reduce Cancellations: Investigate ways to reduce canceled orders and improve the ordering process.
 
-6.Conclusion
+Conclusion
 
 This analysis shows that younger users are more likely to order dinner, and certain dishes are very popular. By focusing on dinner promotions and improving the user experience, businesses can increase customer satisfaction and boost sales.
 
