@@ -1,19 +1,23 @@
 Data Analysis Project
 
 This project analyzes data about users, their cooking sessions, and orders. The goal is to understand user behavior, popular meal preferences, and order trends. The insights can help businesses improve their services and increase customer satisfaction.
-What’s in the Project?
-1.	Data Overview:
+
+Data Overview:
+
 o	User Details: Information about users like their age, location, and meal preferences.
+
 o	Cooking Sessions: Data about users' cooking sessions, including session ratings and duration.
+
 o	Order Details: Information about users’ orders, such as the meal type, amount spent, and order status.
-2.	Key Steps:
+
+Key Steps:
    
-o	We cleaned and merged the data from the three sources: user details, cooking sessions, and order details.
+o	cleaned and merged the data from the three sources: user details, cooking sessions, and order details.
 
-o	We analyzed the relationships between user age, location, meal preferences, and order behaviors.
+o	analyzed the relationships between user age, location, meal preferences, and order behaviors.
 
-4.	Main Findings:
-5.	
+Main Findings:
+
 o	Most users are young adults, and they prefer dinner meals.
 
 o	Spaghetti and Grilled Chicken are the most popular dishes.
@@ -24,7 +28,8 @@ o	Users in cities like New York and Los Angeles order more frequently.
 
 o	User satisfaction is generally high, but there is still room for improvement.
 
-4.Key Visuals
+Key Visuals
+
 •	Popular Dishes: A bar chart showing which dishes are ordered most frequently.
 
 •	Age Distribution: A chart showing the ages of the users.
