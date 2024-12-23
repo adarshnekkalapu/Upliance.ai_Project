@@ -1,4 +1,5 @@
 Data Analysis Project
+
 This project analyzes data about users, their cooking sessions, and orders. The goal is to understand user behavior, popular meal preferences, and order trends. The insights can help businesses improve their services and increase customer satisfaction.
 What’s in the Project?
 1.	Data Overview:
